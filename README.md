@@ -1,8 +1,5 @@
 SPOJ
 
-It is a platform to get solution of one of the best problems on spoj
-
-
 
 Always try to put yourself in shoes of question :
 
