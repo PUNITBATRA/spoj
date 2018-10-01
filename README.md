@@ -1,8 +1,3 @@
-SPOJ
-
-
-Always try to put yourself in shoes of question :
-
 
 
 
